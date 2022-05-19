@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body{
+    background-image: url("https://s1.1zoom.me/b5054/476/Mountains_Roads_Asphalt_516146_1920x1080.jpg");
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Koulen', cursive;
+}
+h5{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(51, 102, 196, 0.911);
+    width: 300px;
+    height: 230px;
+    text-align: center;
+    margin: auto;
+    border-radius: 11px;
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 2px 3px 3px 4px #332f2c;
+}
+select{
+    margin: auto;
+}
+input{
+    display: block;
+    margin: auto;
+    border: 1px solid rgb(55, 55, 65);
+    border-radius: 3px;
+}
+#boton{
+    background-color: rgb(221, 220, 220);
+    width: 100px;
+    height: 30px;
+}

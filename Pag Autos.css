@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Basic&display=swap');
+body{
+    background-image: url("https://fondosmil.com/fondo/25776.jpg");
+    color: azure;
+}
+h1{
+    font-size: 45px;
+    font-family: 'Koulen', cursive;
+}
+h4{
+     font-family: 'Koulen', cursive;
+}
+header{
+    text-align:center;
+}
+main{
+    background-color: rgba(214, 214, 211, 0.411);
+    border: 2px solid #000000;
+}
+#Mercedes{
+    border-bottom: 2px ridge rgb(0, 0, 0);
+    text-align: center;  
+}
+#mercedestitu{
+    font-size: 25px;
+    font-family: 'Oleo Script', cursive;
+}
+#mercedesimg{
+    width: 300px;
+    height: auto;
+}
+#pmercedes{
+    color: rgb(255, 255, 255);
+    font-family: 'Basic', sans-serif;
+}
+#RollsRoyce{
+text-align: center;
+border-bottom: 2px ridge #000000;
+}
+#roycetitu{
+font-size: 25px;
+font-family: 'Oleo Script', cursive;
+}
+#royceimg{
+width: 300px;
+height: auto;
+}
+#proyce{
+color: rgb(255, 255, 255);
+font-family: 'Basic', sans-serif;
+}
+#Jaguar{
+border-bottom: 2px ridge #000000;
+text-align: center;
+}
+#jaguartitu{
+font-size: 25px;
+font-family: 'Oleo Script', cursive;
+}
+#jaguarimg{
+width: 300px;
+height: auto;
+}
+#pjaguar{
+color: rgb(255, 255, 255); 
+font-family: 'Basic', sans-serif;
+}
+#Alfa{
+border-bottom: 2px ridge rgb(0, 0, 0);
+text-align: center;
+}
+#alfatitu{
+font-size: 25px;
+font-family: 'Oleo Script', cursive;
+}
+#alfaimg{
+width: 300px;
+height: auto;
+}
+#palfa{
+color: rgb(255, 255, 255); 
+font-family: 'Basic', sans-serif;
+}
+#FordT{
+    text-align: center;  
+}
+#fordtitu{
+    font-size: 25px;
+    font-family: 'Oleo Script', cursive;
+}
+#fordimg{
+    width: 300px;
+    height: auto;
+}
+#pford{
+    color: rgb(255, 255, 255);
+    font-family: 'Basic', sans-serif;
+}
